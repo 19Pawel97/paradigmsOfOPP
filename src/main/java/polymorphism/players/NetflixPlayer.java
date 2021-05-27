@@ -1,4 +1,4 @@
-package polymorphism;
+package polymorphism.players;
 
 public class NetflixPlayer extends VodPlayer {
 

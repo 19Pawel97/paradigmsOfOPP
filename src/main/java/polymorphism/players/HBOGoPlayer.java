@@ -1,4 +1,4 @@
-package polymorphism;
+package polymorphism.players;
 
 public class HBOGoPlayer extends VodPlayer{
     @Override

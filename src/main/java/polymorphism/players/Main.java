@@ -1,4 +1,4 @@
-package polymorphism;
+package polymorphism.players;
 
 public class Main {
     public static void main(String[] args) {
