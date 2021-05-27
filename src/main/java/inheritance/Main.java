@@ -11,6 +11,7 @@ public class Main {
         eagle.hunt(10);
         eagle.hunt(5);
         System.out.println(eagle.getHuntedMice());
+        System.out.println();
 
         animal2.move();
         Bird bird = (Bird) animal2;
